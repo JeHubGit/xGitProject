@@ -98,7 +98,6 @@ public class Esfera {
 		System.out.println("El volumen de la esfera es: " + esf1.calcularVolumen() + " cm3");
 
 		System.out.println("Eres todo un matematico.");
-
 		// Cerramos el objeto teclado para ahorrar recursos.
 		teclado.close();
 	}
